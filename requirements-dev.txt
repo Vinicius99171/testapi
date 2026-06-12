@@ -1,0 +1,7 @@
+# Ferramentas de desenvolvimento
+black
+isort
+flake8
+mypy
+pre-commit
+pytest-cov
